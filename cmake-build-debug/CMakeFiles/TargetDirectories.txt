@@ -1,0 +1,3 @@
+/home/theflilux/Escritorio/EDA exercises/PracticeMentoria2/cmake-build-debug/CMakeFiles/PracticeMentoria2.dir
+/home/theflilux/Escritorio/EDA exercises/PracticeMentoria2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/theflilux/Escritorio/EDA exercises/PracticeMentoria2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

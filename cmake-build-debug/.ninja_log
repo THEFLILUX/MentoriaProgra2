@@ -1,0 +1,15 @@
+# ninja log v5
+0	16	1662932966730495001	build.ninja	2824ea2329450440
+1	228	1662931314585386680	CMakeFiles/PracticeMentoria2.dir/Dias.cpp.o	9442b4231d20f515
+0	13	1662932966378494132	CMakeFiles/PracticeMentoria2.dir/NumeroYPiedra.cpp.o	bc49a91b188d9bac
+1	340	1662929686773101254	CMakeFiles/PracticeMentoria2.dir/sumaDeAngulos.cpp.o	8beac4cc3a85ec61
+264	335	1662932764918049760	PracticeMentoria2	5ae46004dc393097
+0	235	1662927323266951328	CMakeFiles/PracticeMentoria2.dir/main.cpp.o	39116c899d35deb1
+0	263	1662932764846049623	CMakeFiles/PracticeMentoria2.dir/NumerosPrimos.cpp.o	aad9b669107fda25
+0	253	1662930523094058934	CMakeFiles/PracticeMentoria2.dir/DigitosIguales.cpp.o	d3e96ed9d74ecff5
+1	276	1662928984524824012	CMakeFiles/PracticeMentoria2.dir/Horoscopo.cpp.o	9b24b15f17fbeba8
+0	1030	1662932074066060804	CMakeFiles/PracticeMentoria2.dir/Temperaturas.cpp.o	643701c892534d10
+0	260	1662927465623950343	CMakeFiles/PracticeMentoria2.dir/Capicua.cpp.o	8a5525d3d03a388a
+0	248	1662927973694934795	CMakeFiles/PracticeMentoria2.dir/factoriales.cpp.o	3e892f681e3c0c53
+1	343	1662933403719739734	CMakeFiles/PracticeMentoria2.dir/NumeroYPiedra.cpp.o	bc49a91b188d9bac
+343	419	1662933403795739973	PracticeMentoria2	c0fb2531c2c182d2
