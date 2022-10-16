@@ -3,4 +3,4 @@ project(PracticeMentoria2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(PracticeMentoria2 NumeroYPiedra.cpp)
+add_executable(PracticeMentoria2 batallaNaval.cpp)
